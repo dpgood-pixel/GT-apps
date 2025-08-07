@@ -1,5 +1,0 @@
-git init
-git add .
-git commit -m "my first kirana app code"
-git remote add origin <your GitHub repo URL>
-git push -u origin main
